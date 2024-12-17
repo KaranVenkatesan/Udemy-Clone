@@ -95,7 +95,7 @@ display: block;
     transform: scale(1.1);
 }
 
-.sale-image {
+.sale-image    img{
     width: 100%;
     position: relative;
 
@@ -215,4 +215,5 @@ display: block;
     .navbar__s4{
         display: block;
     }
+
 }
